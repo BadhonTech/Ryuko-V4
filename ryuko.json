@@ -4,16 +4,16 @@
   "language": "en",
   "approval": false,
   "premium": false,
-  "BOTNAME": "ryuko",
-  "PREFIX": "-",
+  "BOTNAME": "𝗣𝗶𝗸𝗮 - 𝗕𝗼𝘁 🦋",
+  "PREFIX": ".",
   "OPERATOR": [
-    ""
+    "100004819114915"
   ],
   "ADMINBOT": [
-    ""
+    "100004819114915"
   ],
   "GROUPCHATID": [
-    "YOUR-GROUP-CHAT-ID"
+    "7358801090852906"
   ],
   "note": "groupchatid is required, how to use? first disable the approval and premium above, then create group chat and add your bot. chat the command 'gid' in your group chat to get your group chat id and paste it on groupchatid. this feature allowed you to monitor the logs of your bot",
   "disabledcmds": [],
